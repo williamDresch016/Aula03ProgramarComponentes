@@ -1,0 +1,11 @@
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe.config
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Properties.Resources.resources
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.GenerateResource.cache
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.exe
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\william.dresch\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Form1.resources
